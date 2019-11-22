@@ -1,0 +1,6 @@
+framework module Pods_RAVirtuaLect {
+  umbrella header "Pods-RAVirtuaLect-umbrella.h"
+
+  export *
+  module * { export * }
+}

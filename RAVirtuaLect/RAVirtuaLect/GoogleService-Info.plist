@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>159513797917-teq86fpf6prn87eu9frolqnepgd84ovl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159513797917-teq86fpf6prn87eu9frolqnepgd84ovl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ2HWso_YMI8Z8gETB7hpw5pZOVhl7KQ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159513797917</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.virtualecto.RAVirtuaLect</string>
+	<key>PROJECT_ID</key>
+	<string>arvirtual-56a73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arvirtual-56a73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159513797917:ios:5875d80d4ad40f95</string>
+	<key>DATABASE_URL</key>
+	<string>https://arvirtual-56a73.firebaseio.com</string>
+</dict>
+</plist>
