@@ -9,12 +9,18 @@
 /* Begin PBXBuildFile section */
 		2219DD7C2295F355002EC3E9 /* ParallaxIntro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2219DD7B2295F355002EC3E9 /* ParallaxIntro.swift */; };
 		2219DD7E2295F3F1002EC3E9 /* AnimationInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2219DD7D2295F3F1002EC3E9 /* AnimationInit.swift */; };
+		2284DC682451DF6700F38805 /* ViewModel3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2284DC672451DF6700F38805 /* ViewModel3D.swift */; };
+		2284DC6C2451E61700F38805 /* model3d.scnassets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2284DC6B2451E61700F38805 /* model3d.scnassets.xcassets */; };
+		2284DC6E2451E6D000F38805 /* Model3dScena.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 2284DC6D2451E6D000F38805 /* Model3dScena.scnassets */; };
 		22854B69228BB42B001027CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22854B68228BB42B001027CB /* AppDelegate.swift */; };
 		22854B6B228BB42B001027CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22854B6A228BB42B001027CB /* ViewController.swift */; };
 		22854B6E228BB42B001027CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22854B6C228BB42B001027CB /* Main.storyboard */; };
 		22854B70228BB42C001027CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22854B6F228BB42C001027CB /* Assets.xcassets */; };
 		22854B73228BB42C001027CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22854B71228BB42C001027CB /* LaunchScreen.storyboard */; };
 		22854B7B228BB645001027CB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 22854B7A228BB645001027CB /* GoogleService-Info.plist */; };
+		22E9C84423CCF027007306E5 /* MainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E9C84323CCF027007306E5 /* MainTableViewCell.swift */; };
+		22E9C84623CCF064007306E5 /* InsideCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E9C84523CCF064007306E5 /* InsideCollectionViewCell.swift */; };
+		22E9C84823CCFC63007306E5 /* BibliotecaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E9C84723CCFC63007306E5 /* BibliotecaViewController.swift */; };
 		ECBF9D7B8D339EDB49F0B087 /* Pods_RAVirtuaLect.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D96BC2877C1509CFDFFB155 /* Pods_RAVirtuaLect.framework */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +28,9 @@
 		1D96BC2877C1509CFDFFB155 /* Pods_RAVirtuaLect.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RAVirtuaLect.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2219DD7B2295F355002EC3E9 /* ParallaxIntro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxIntro.swift; sourceTree = "<group>"; };
 		2219DD7D2295F3F1002EC3E9 /* AnimationInit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationInit.swift; sourceTree = "<group>"; };
+		2284DC672451DF6700F38805 /* ViewModel3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel3D.swift; sourceTree = "<group>"; };
+		2284DC6B2451E61700F38805 /* model3d.scnassets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = model3d.scnassets.xcassets; sourceTree = "<group>"; };
+		2284DC6D2451E6D000F38805 /* Model3dScena.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Model3dScena.scnassets; sourceTree = "<group>"; };
 		22854B65228BB42B001027CB /* RAVirtuaLect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RAVirtuaLect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22854B68228BB42B001027CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22854B6A228BB42B001027CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -30,6 +39,9 @@
 		22854B72228BB42C001027CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22854B74228BB42C001027CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22854B7A228BB645001027CB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		22E9C84323CCF027007306E5 /* MainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewCell.swift; sourceTree = "<group>"; };
+		22E9C84523CCF064007306E5 /* InsideCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsideCollectionViewCell.swift; sourceTree = "<group>"; };
+		22E9C84723CCFC63007306E5 /* BibliotecaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BibliotecaViewController.swift; sourceTree = "<group>"; };
 		231E26429B8C9F216C85574D /* Pods-RAVirtuaLect.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAVirtuaLect.debug.xcconfig"; path = "Target Support Files/Pods-RAVirtuaLect/Pods-RAVirtuaLect.debug.xcconfig"; sourceTree = "<group>"; };
 		37C77A26BCAC32F1A7D0326A /* Pods-RAVirtuaLect.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAVirtuaLect.release.xcconfig"; path = "Target Support Files/Pods-RAVirtuaLect/Pods-RAVirtuaLect.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -76,14 +88,20 @@
 			isa = PBXGroup;
 			children = (
 				22854B68228BB42B001027CB /* AppDelegate.swift */,
+				2284DC672451DF6700F38805 /* ViewModel3D.swift */,
 				22854B6A228BB42B001027CB /* ViewController.swift */,
 				2219DD7D2295F3F1002EC3E9 /* AnimationInit.swift */,
 				22854B6C228BB42B001027CB /* Main.storyboard */,
+				22E9C84723CCFC63007306E5 /* BibliotecaViewController.swift */,
+				22E9C84323CCF027007306E5 /* MainTableViewCell.swift */,
+				22E9C84523CCF064007306E5 /* InsideCollectionViewCell.swift */,
 				2219DD7B2295F355002EC3E9 /* ParallaxIntro.swift */,
 				22854B6F228BB42C001027CB /* Assets.xcassets */,
 				22854B71228BB42C001027CB /* LaunchScreen.storyboard */,
 				22854B7A228BB645001027CB /* GoogleService-Info.plist */,
 				22854B74228BB42C001027CB /* Info.plist */,
+				2284DC6B2451E61700F38805 /* model3d.scnassets.xcassets */,
+				2284DC6D2451E6D000F38805 /* Model3dScena.scnassets */,
 			);
 			path = RAVirtuaLect;
 			sourceTree = "<group>";
@@ -158,9 +176,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				22854B73228BB42C001027CB /* LaunchScreen.storyboard in Resources */,
+				2284DC6E2451E6D000F38805 /* Model3dScena.scnassets in Resources */,
 				22854B7B228BB645001027CB /* GoogleService-Info.plist in Resources */,
 				22854B70228BB42C001027CB /* Assets.xcassets in Resources */,
 				22854B6E228BB42B001027CB /* Main.storyboard in Resources */,
+				2284DC6C2451E61700F38805 /* model3d.scnassets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,10 +242,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22E9C84623CCF064007306E5 /* InsideCollectionViewCell.swift in Sources */,
 				22854B6B228BB42B001027CB /* ViewController.swift in Sources */,
 				2219DD7C2295F355002EC3E9 /* ParallaxIntro.swift in Sources */,
 				2219DD7E2295F3F1002EC3E9 /* AnimationInit.swift in Sources */,
+				22E9C84823CCFC63007306E5 /* BibliotecaViewController.swift in Sources */,
 				22854B69228BB42B001027CB /* AppDelegate.swift in Sources */,
+				22E9C84423CCF027007306E5 /* MainTableViewCell.swift in Sources */,
+				2284DC682451DF6700F38805 /* ViewModel3D.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
